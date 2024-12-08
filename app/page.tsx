@@ -23,6 +23,6 @@ export default function Home() {
     <Essential/>
     <Navigation/>
     <Footer/>
-  </main>
+    </main>
   )
 }
